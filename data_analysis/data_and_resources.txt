@@ -1,1 +1,8 @@
+InstaCart Online Grocery Basket Analysis Dataset
+https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset?select=products.csv
 
+California Housing Prices
+https://www.kaggle.com/code/ahmedmahmoud16/california-housing-prices?select=housing.csv
+
+Suicide rate analysis (EDA and Clustering)
+https://www.kaggle.com/code/mariapushkareva/suicide-rate-analysis-eda-and-clustering?select=master.csv
