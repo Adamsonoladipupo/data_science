@@ -1,0 +1,4 @@
+*.csv
+analysis_env/
+data_and_resources/
+.ipynb_checkpoints/
