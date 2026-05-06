@@ -6,3 +6,5 @@ https://www.kaggle.com/code/ahmedmahmoud16/california-housing-prices?select=hous
 
 Suicide rate analysis (EDA and Clustering)
 https://www.kaggle.com/code/mariapushkareva/suicide-rate-analysis-eda-and-clustering?select=master.csv
+
+
